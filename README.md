@@ -2,7 +2,7 @@
 In this we are going to add source code for different kind of todo designs
 # TodoList Web App
 
-![Project Image](/todolists-code/todolist-1/project-ss.png)
+![Project Image](/todolist-1/project-ss.png)
 
 > A simple web application for managing your to-do lists.
 
