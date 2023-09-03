@@ -2,7 +2,7 @@
 In this we are going to add source code for different kind of todo designs
 # TodoList Web App
 
-![Project Image](project-image-url)
+![Project Image](/todolists-code/todolist-1/project-ss.png)
 
 > A simple web application for managing your to-do lists.
 
@@ -40,9 +40,8 @@ The TodoList Web App is a web-based application that allows users to create, man
 
 ## Demo
 
-You can try out a live demo of the TodoList Web App [here](demo-url).
+You can try out a live demo of the TodoList Web App [here](https://github.com/navneetshahi14/todolists-code.git).
 
-![Demo GIF](demo-gif-url)
 
 ---
 
@@ -92,7 +91,4 @@ This project is licensed under the [MIT License](license-url).
 
 If you have any questions or suggestions, feel free to reach out to the project maintainers:
 
-- [Your Name](mailto:your-email@example.com)
-- [Contributor 1 Name](mailto:contributor1@example.com)
-- [Contributor 2 Name](mailto:contributor2@example.com)
-
+- [Navneet Shahi](mailto:navneet.shahi2004@gmial.com)
